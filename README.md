@@ -18,11 +18,4 @@ Let's Connect!
 
 ---
 
-### 🚀 Technical Focus
-*   **AI Orchestration:** Multi-Agent Systems (LangGraph), GPT-5, RAG
-*   **Full-Stack:** React (Vite), FastAPI, Model Context Protocol (MCP)
-*   **Database:** MongoDB, SQL
-
-<!--
 "The best way to predict the future is to invent it."
--->
