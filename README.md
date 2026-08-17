@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Pakeeza Khalid 
 
+I am an Open Innovator. I do Software Engineering. Expert in reverse engineering.
 Let's Connect! 
 [Portfolio](https://portfolio-final-rouge-alpha.vercel.app/) | [LinkedIn](https://linkedin.com/in/pakeeza-khalid-3128b62b7) | ipakeezakhalid@gmail.com
 
