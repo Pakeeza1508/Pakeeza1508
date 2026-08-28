@@ -17,6 +17,9 @@ Let's Connect!
   <img src="https://streak-stats.demolab.com/?user=Pakeeza1508&theme=radical" alt="Pakeeza's GitHub Streak" height="170px" />
 </p>
 
+
+https://lablab.ai/u/@pakeeza
+
 ---
 
 "The best way to predict the future is to invent it."
