@@ -1,25 +1,94 @@
-## Hi there 👋 I'm Pakeeza Khalid 
+<div align="center">
 
-I am an Open Innovator. I do Software Engineering. Expert in reverse engineering.
-Let's Connect! 
-[Portfolio](https://portfolio-final-rouge-alpha.vercel.app/) | [LinkedIn](https://linkedin.com/in/pakeeza-khalid-3128b62b7) | ipakeezakhalid@gmail.com
+# Hi, I'm Pakeeza 👋
+
+### AI / Research Engineering · Software Engineering
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=760&lines=Adaptive+AI+%7C+NLP+%26+LLMs;RAG+%7C+Agents+%7C+Evaluation;Building+systems+that+adapt+and+verify)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-DB2777?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-final-rouge-alpha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakeeza-khalid/)
+[![Email](https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakeezaislam1508@gmail.com)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-Google_Meet-C084FC?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendar.app.google/mrRsK9gueYeBn1xx7)
+
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+### 👩‍💻 About me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pakeeza1508&show_icons=true&theme=radical" alt="Pakeeza's GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakeeza1508&layout=compact&theme=radical" alt="Pakeeza's Top Langs" height="170px" />
-</p>
+I am a Computer Science undergraduate at **LCWU** with a strong software engineering foundation and a growing focus on **Adaptive AI, NLP, LLM systems, RAG, agents, and AI for Software Engineering**. I am also a **reverse engineer by mindset** — I like taking systems apart, understanding how they work, where they fail, and how they can be improved.
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Pakeeza1508&theme=radical" alt="Pakeeza's GitHub Streak" height="170px" />
-</p>
+I enjoy building, testing, breaking, and improving systems, especially where software engineering meets intelligent behavior.
+
+- 🎓 Computer Science undergraduate at **LCWU**
+- 🔬 Focused on **Adaptive AI, NLP, LLM systems, RAG, agents, and AI for Software Engineering**
+- 🧩 **Reverse engineer** — interested in understanding systems deeply, not just using them
+- 📍 Lahore, Pakistan
+- 🟢 Open to **AI/ML research, research engineering, and software engineering opportunities**
+
+---
+
+### 🚀 What I'm working on
+
+- Adaptive AI systems that use context and feedback
+- LLM evaluation, retrieval, and tool-using workflows
+- AI-assisted software engineering and developer tooling
+- Full-stack systems that support real product workflows
+
+---
+
+### 🛠️ Tech I use
+
+#### AI / ML
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-111827?style=flat-square&logo=huggingface)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+
+#### Software Engineering
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pakeeza1508&theme=radical" height="165" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pakeeza1508&theme=radical" height="165" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Pakeeza1508&theme=radical&hide_border=true" height="165" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+[Portfolio](https://portfolio-final-rouge-alpha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pakeeza-khalid/) · [Email](mailto:pakeezaislam1508@gmail.com) · [Book a 1:1](https://calendar.app.google/mrRsK9gueYeBn1xx7)
+
+</div>
 
 
-https://lablab.ai/u/@pakeeza
+---
 
-----
+<div align="center">
 
-"The best way to predict the future is to invent it."
+*"The best way to predict the future is to invent it."*
+
+</div>
