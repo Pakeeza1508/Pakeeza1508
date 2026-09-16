@@ -65,8 +65,8 @@ I enjoy building, testing, breaking, and improving systems, especially where sof
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pakeeza1508&show_icons=true&hide_border=true&theme=radical" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakeeza1508&layout=compact&hide_border=true&theme=radical" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pakeeza1508&theme=radical" height="165" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pakeeza1508&theme=radical" height="165" alt="Top languages" />
 
 <br/>
 
