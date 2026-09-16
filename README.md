@@ -34,24 +34,6 @@
 
 ---
 
-### 🧩 Featured repositories
-
-<a href="https://github.com/Pakeeza1508/adaptive-breaks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pakeeza1508&repo=adaptive-breaks&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Pakeeza1508/zerops-OrbitAIRadar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pakeeza1508&repo=zerops-OrbitAIRadar&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/Pakeeza1508/AI-Powered-Creative-Brainstorming-Hack1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pakeeza1508&repo=AI-Powered-Creative-Brainstorming-Hack1&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Pakeeza1508/CodeFusion---Repo-Hunter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pakeeza1508&repo=CodeFusion---Repo-Hunter&theme=radical&hide_border=true" />
-</a>
-
----
-
 ### 🛠️ Tech I use
 
 #### AI / ML
