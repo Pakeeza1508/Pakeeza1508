@@ -1,13 +1,16 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0712,50:DB2777,100:0D0712&height=300&section=header&text=PAKEEZA%20KHALID&fontSize=78&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20RESEARCH%20ENGINEERING%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=60&descColor=F9A8D4&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=PAKEEZA%20KHALID&fontSize=58&fontColor=F8FAFC&desc=AI%20%2F%20RESEARCH%20ENGINEERING%20%C2%B7%20SOFTWARE%20ENGINEERING&descAlignY=68&descSize=18&color=0:0D0712,50:3B0A45,100:DB2777&animation=fadeIn" width="100%" alt="Pakeeza Khalid" />
+### **"Building intelligent systems that adapt, reason, and improve."**
+**Reverse engineer by mindset — taking systems apart to understand how they work, where they fail, and how they can be improved.**
 
-### Building intelligent systems that adapt, reason, and improve.
+[Portfolio](https://portfolio-final-rouge-alpha.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/pakeeza-khalid/) • [Book a 1:1](https://calendar.app.google/mrRsK9gueYeBn1xx7)
 
-Reverse engineer by mindset — I like taking systems apart, understanding how they work, where they fail, and how they can be improved.
+---
+</div>
 
-[Portfolio](https://portfolio-final-rouge-alpha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pakeeza-khalid/) · [Email](mailto:pakeezaislam1508@gmail.com) · [Book a 1:1](https://calendar.app.google/mrRsK9gueYeBn1xx7)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pakeeza1508&theme=radical" width="100%"/>
 </div>
 
 ---
@@ -54,21 +57,6 @@ My software engineering background led me toward questions around model behavior
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
-
----
-
-### 📊 GitHub activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pakeeza1508&theme=radical" width="100%" alt="GitHub activity overview" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pakeeza1508&theme=radical" height="165" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pakeeza1508&theme=radical" height="165" alt="Top languages" />
-
-</div>
 
 ---
 
