@@ -1,55 +1,51 @@
 <div align="center">
 
-# Hi, I'm Pakeeza 👋
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=PAKEEZA%20KHALID&fontSize=58&fontColor=F8FAFC&desc=AI%20%2F%20RESEARCH%20ENGINEERING%20%C2%B7%20SOFTWARE%20ENGINEERING&descAlignY=68&descSize=18&color=0:0D0712,50:3B0A45,100:DB2777&animation=fadeIn" width="100%" alt="Pakeeza Khalid" />
 
-### AI / Research Engineering · Software Engineering
+### Building intelligent systems that adapt, reason, and improve.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=760&lines=Adaptive+AI+%7C+NLP+%26+LLMs;RAG+%7C+Agents+%7C+Evaluation;Building+systems+that+adapt+and+verify)](https://git.io/typing-svg)
+Reverse engineer by mindset — I like taking systems apart, understanding how they work, where they fail, and how they can be improved.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-DB2777?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-final-rouge-alpha.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakeeza-khalid/)
-[![Email](https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakeezaislam1508@gmail.com)
-[![Book a Call](https://img.shields.io/badge/Book_a_Call-Google_Meet-C084FC?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendar.app.google/mrRsK9gueYeBn1xx7)
+[Portfolio](https://portfolio-final-rouge-alpha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pakeeza-khalid/) · [Email](mailto:pakeezaislam1508@gmail.com) · [Book a 1:1](https://calendar.app.google/mrRsK9gueYeBn1xx7)
 
 </div>
 
 ---
 
-### 👩‍💻 About me
+### 👩‍💻 About
 
-I am a Computer Science undergraduate at **LCWU** with a strong software engineering foundation and a growing focus on **Adaptive AI, NLP, LLM systems, RAG, agents, and AI for Software Engineering**. I am also a **reverse engineer by mindset** — I like taking systems apart, understanding how they work, where they fail, and how they can be improved.
+I'm a Computer Science undergraduate at **LCWU** working across **Adaptive AI, NLP, LLM systems, RAG, agents, AI for Software Engineering, and full-stack systems**.
 
-I enjoy building, testing, breaking, and improving systems, especially where software engineering meets intelligent behavior.
+My software engineering background led me toward questions around model behavior, retrieval, personalization, tool use, and execution feedback. I enjoy building systems, stress-testing assumptions, and learning from failure modes rather than treating a working demo as the end point.
 
-- 🎓 Computer Science undergraduate at **LCWU**
-- 🔬 Focused on **Adaptive AI, NLP, LLM systems, RAG, agents, and AI for Software Engineering**
-- 🧩 **Reverse engineer** — interested in understanding systems deeply, not just using them
-- 📍 Lahore, Pakistan
-- 🟢 Open to **AI/ML research, research engineering, and software engineering opportunities**
+📍 Lahore, Pakistan · 🟢 Open to AI/ML research, research engineering, and software engineering opportunities
 
 ---
 
-### 🚀 What I'm working on
+### 🔬 Current focus
 
-- Adaptive AI systems that use context and feedback
-- LLM evaluation, retrieval, and tool-using workflows
-- AI-assisted software engineering and developer tooling
-- Full-stack systems that support real product workflows
+![Adaptive AI](https://img.shields.io/badge/Adaptive_AI-111827?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge)
+![LLM Systems](https://img.shields.io/badge/LLM_Systems-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![Agents](https://img.shields.io/badge/Agents-111827?style=for-the-badge)
+![AI for Software Engineering](https://img.shields.io/badge/AI_for_Software_Engineering-111827?style=for-the-badge)
 
 ---
 
-### 🛠️ Tech I use
+### 🛠️ Tech
 
-#### AI / ML
+**AI / ML**
+
 ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-111827?style=flat-square&logo=huggingface)
-![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
 
-#### Software Engineering
+**Software Engineering**
+
 ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
@@ -61,29 +57,18 @@ I enjoy building, testing, breaking, and improving systems, especially where sof
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub activity
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pakeeza1508&theme=radical" width="100%" alt="GitHub activity overview" />
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pakeeza1508&theme=radical" height="165" alt="GitHub stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pakeeza1508&theme=radical" height="165" alt="Top languages" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Pakeeza1508&theme=radical&hide_border=true" height="165" alt="GitHub streak" />
-
 </div>
-
----
-
-<div align="center">
-
-### Let's connect
-
-[Portfolio](https://portfolio-final-rouge-alpha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pakeeza-khalid/) · [Email](mailto:pakeezaislam1508@gmail.com) · [Book a 1:1](https://calendar.app.google/mrRsK9gueYeBn1xx7)
-
-</div>
-
 
 ---
 
