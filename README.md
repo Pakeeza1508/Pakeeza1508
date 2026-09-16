@@ -17,9 +17,13 @@
 
 ### 👩‍💻 About me
 
+I am a Computer Science undergraduate at **LCWU** with a strong software engineering foundation and a growing focus on **Adaptive AI, NLP, LLM systems, RAG, agents, and AI for Software Engineering**. I am also a **reverse engineer by mindset** — I like taking systems apart, understanding how they work, where they fail, and how they can be improved.
+
+I enjoy building, testing, breaking, and improving systems, especially where software engineering meets intelligent behavior.
+
 - 🎓 Computer Science undergraduate at **LCWU**
-- 🔬 Interested in **Adaptive AI, NLP, LLM systems, RAG, agents, and AI for Software Engineering**
-- 🛠️ I like building, testing, breaking, and improving systems
+- 🔬 Focused on **Adaptive AI, NLP, LLM systems, RAG, agents, and AI for Software Engineering**
+- 🧩 **Reverse engineer** — interested in understanding systems deeply, not just using them
 - 📍 Lahore, Pakistan
 - 🟢 Open to **AI/ML research, research engineering, and software engineering opportunities**
 
@@ -77,5 +81,14 @@
 ### Let's connect
 
 [Portfolio](https://portfolio-final-rouge-alpha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pakeeza-khalid/) · [Email](mailto:pakeezaislam1508@gmail.com) · [Book a 1:1](https://calendar.app.google/mrRsK9gueYeBn1xx7)
+
+</div>
+
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to invent it."*
 
 </div>
