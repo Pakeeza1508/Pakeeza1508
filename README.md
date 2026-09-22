@@ -21,7 +21,8 @@ I'm a Computer Science undergraduate at **LCWU** working across **Adaptive AI, N
 
 My software engineering background led me toward questions around model behavior, retrieval, personalization, tool use, and execution feedback. I enjoy building systems, stress-testing assumptions, and learning from failure modes rather than treating a working demo as the end point.
 
-📍 Lahore, Pakistan · 🟢 Open to AI/ML research, research engineering, and software engineering opportunities
+📍 Lahore, Pakistan 
+🟢 Open to AI/ML research, research engineering, and software engineering opportunities
 
 ---
 
