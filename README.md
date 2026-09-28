@@ -15,6 +15,10 @@
 
 ---
 
+  <p><b>🔥 Contributions and Streaks</b></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pakeeza1508&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ### 👩‍💻 About
 
 I'm a Computer Science undergraduate working across **Adaptive AI, NLP, LLM systems, RAG, agents, AI for Software Engineering, and full-stack systems**.
