@@ -17,11 +17,12 @@
 
 ### 👩‍💻 About
 
-I'm a Computer Science undergraduate at **LCWU** working across **Adaptive AI, NLP, LLM systems, RAG, agents, AI for Software Engineering, and full-stack systems**.
+I'm a Computer Science undergraduate working across **Adaptive AI, NLP, LLM systems, RAG, agents, AI for Software Engineering, and full-stack systems**.
 
-My software engineering background led me toward questions around model behavior, retrieval, personalization, tool use, and execution feedback. I enjoy building systems, stress-testing assumptions, and learning from failure modes rather than treating a working demo as the end point.
+My software engineering background led me toward questions around system behaviors, retrieval, personalization in models, tool use, and execution feedback. I enjoy building systems, stress-testing assumptions, and learning from failure modes rather than treating a working demo as the end point.
 
 📍 Lahore, Pakistan 
+
 🟢 Open to AI/ML research, research engineering, and software engineering opportunities
 
 ---
